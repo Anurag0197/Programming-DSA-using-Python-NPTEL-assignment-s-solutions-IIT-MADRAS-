@@ -4,5 +4,5 @@ COURSE -  Programming, data structures and algorithms using Python, NPTEL (IIT M
 Session - 2018-2019, August-October
 
 This repository contains the solution of all the assignments of this particular course.
-Few weeks are not present because those weeks don't have the assignment. 
+Few weeks are not present because those weeks doesn't have the assignment. 
 All  the programs have passed all the test cases.
